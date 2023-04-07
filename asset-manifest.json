@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pinolissimo.github.io/csb-wy69tu/static/css/main.b24b2b72.chunk.css",
+    "main.js": "https://pinolissimo.github.io/csb-wy69tu/static/js/main.1a4ca9a6.chunk.js",
+    "main.js.map": "https://pinolissimo.github.io/csb-wy69tu/static/js/main.1a4ca9a6.chunk.js.map",
+    "runtime-main.js": "https://pinolissimo.github.io/csb-wy69tu/static/js/runtime-main.eeae552b.js",
+    "runtime-main.js.map": "https://pinolissimo.github.io/csb-wy69tu/static/js/runtime-main.eeae552b.js.map",
+    "static/js/2.dc63f366.chunk.js": "https://pinolissimo.github.io/csb-wy69tu/static/js/2.dc63f366.chunk.js",
+    "static/js/2.dc63f366.chunk.js.map": "https://pinolissimo.github.io/csb-wy69tu/static/js/2.dc63f366.chunk.js.map",
+    "index.html": "https://pinolissimo.github.io/csb-wy69tu/index.html",
+    "static/css/main.b24b2b72.chunk.css.map": "https://pinolissimo.github.io/csb-wy69tu/static/css/main.b24b2b72.chunk.css.map",
+    "static/js/2.dc63f366.chunk.js.LICENSE.txt": "https://pinolissimo.github.io/csb-wy69tu/static/js/2.dc63f366.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eeae552b.js",
+    "static/js/2.dc63f366.chunk.js",
+    "static/css/main.b24b2b72.chunk.css",
+    "static/js/main.1a4ca9a6.chunk.js"
+  ]
+}
